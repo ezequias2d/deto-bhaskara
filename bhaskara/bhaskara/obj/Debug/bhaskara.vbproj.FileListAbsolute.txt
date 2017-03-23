@@ -1,0 +1,11 @@
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\bhaskara.vbprojResolveAssemblyReference.cache
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\bhaskara.Form1.resources
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\bhaskara.Resources.resources
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\bhaskara.vbproj.GenerateResource.Cache
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\bin\Debug\DETO - Bhaskara.exe.config
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\bin\Debug\DETO - Bhaskara.exe
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\bin\Debug\DETO - Bhaskara.pdb
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\bin\Debug\DETO - Bhaskara.xml
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\DETO - Bhaskara.exe
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\DETO - Bhaskara.xml
+c:\users\ezequias\documents\visual studio 2015\Projects\bhaskara\bhaskara\obj\Debug\DETO - Bhaskara.pdb
